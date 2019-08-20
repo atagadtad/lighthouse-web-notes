@@ -24,3 +24,17 @@ for (element of bunch.slice(2)) {
 * DEBUG with the console.log function
 * then refactor and see where you can clean up the code!
 * declare variables as CLOSE as they can be to WHERE they'll be used, apply inner scope 
+* comment out old code/copied code so you can follow your past decisions and see where you may have gone wrong
+* AVOID GLOBAL VARIABLES!
+
+```javascript
+data.split('/n')
+```
+* he took a bunch of numbers that we wanted to convert into an array, without the new line
+
+## Summary
+* go into the playground and experiment to see what works and doesn't work
+* build confidence
+* apply debugging techniques (console.log)
+* one that worked, rafactored, and one that actually worked with the data
+* make sure that every time you refactor you have an anchor to see that it's continue to work!
