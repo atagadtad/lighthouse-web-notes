@@ -20,3 +20,7 @@ for (element of bunch.slice(2)) {
 ```
 * scope of the element within the for loop is scoped within the for loop!
 * the "for of loop" is easier to read ^^
+* use the console.log within functions and bits of code to 'x-ray' and find out what's going on 
+* DEBUG with the console.log function
+* then refactor and see where you can clean up the code!
+* declare variables as CLOSE as they can be to WHERE they'll be used, apply inner scope 
