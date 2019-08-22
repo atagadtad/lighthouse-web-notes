@@ -43,3 +43,6 @@ timestampTweep(tweep[3])
 * when you refer to objects and arrays within your function arguments it affects the original 
 * with other primitive value types they are messed around inside the function, but its original are okay (unless you explicitly return and push a changed value towards it)
 * declare your variables within the function to avoid confusion
+* dot notation takes a LITERAL string, [] notation takes arguments, variables etc.
+* OPEN FOR EXTENSION, CLOSED FOR MODIFICATION 
+* callback is a function that's passed as a parameter inside the function
