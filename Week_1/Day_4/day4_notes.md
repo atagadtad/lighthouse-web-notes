@@ -46,3 +46,7 @@ timestampTweep(tweep[3])
 * dot notation takes a LITERAL string, [] notation takes arguments, variables etc.
 * OPEN FOR EXTENSION, CLOSED FOR MODIFICATION 
 * callback is a function that's passed as a parameter inside the function
+* how can we use that simple function to tackle other problems
+* ultimately a family of functions to tackle A LOT of problems
+* ULTIMATE VERSION!
+* high order functions, creating new high order functions with your simple functions
